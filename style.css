@@ -1,0 +1,37 @@
+body{
+    color:white;
+    background: black;
+    margin: 0px;
+    font-family: "New Amsterdam", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px red;
+    padding: 20px;
+    font-size: 25px;
+    color: red;
+}
+
+h1{
+    font-size: 30;
+    margin: 30px;
+}
+
+section{
+    background: darkred;
+    padding-bottom: 80px;
+    display:flex ;
+    justify-content: center;
+}
+
+img{
+    height: 300px;
+}
+
+.categoria-videos{
+    display: flex;
+}
+
+h2{
+    margin: 30px;
+}
